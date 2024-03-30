@@ -8,12 +8,12 @@ This program takes a dictionary Json file which is than loaded into main.cpp. We
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [Main.cpp ](Assignments/PO2/main.cpp)    | Main driver of my project                          |
-|   2   | [loadJsonEx.hpp](Assignments/PO2/loadJsonEx.hpp)  | File that loads json object       |
-|   3   | [rang.hpp](Assignments/PO2/rang.hpp) | Contains text editing (color) |
-|   4   | [console.hpp](Assignments/PO2/console.hpp) | Determines libraries used for os |
-|   5   | [json.hpp](Assignments/PO2/json.hpp) | Uses Nlohhmann json libary to access different json functions |
-|   6   | [dictionary.json](Assignments/PO2/dictionary.json) | Includes dictionary json file | 
+|   1   | [Main.cpp ](main.cpp)    | Main driver of my project                          |
+|   2   | [loadJsonEx.hpp](loadJsonEx.hpp)  | File that loads json object       |
+|   3   | [rang.hpp](rang.hpp) | Contains text editing (color) |
+|   4   | [console.hpp](console.hpp) | Determines libraries used for os |
+|   5   | [json.hpp](json.hpp) | Uses Nlohhmann json libary to access different json functions |
+|   6   | [dictionary.json](dictionary.json) | Includes dictionary json file | 
 
 #### Replit link: https://replit.com/@Ryanmathews1/3013-P02-Starter-3
 
